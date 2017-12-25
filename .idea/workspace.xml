@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ff79e6-67fd-4188-b308-e962a0473d7c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IdeaProjects/README.md" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/README.md" />
-    </list>
+    <list default="true" id="f8ff79e6-67fd-4188-b308-e962a0473d7c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +35,8 @@
       <file leaf-file-name="ConnectionMariaDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gui/model/ConnectionMariaDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="288">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1514179901067" expanded="true" signature="847:890" ph="select * fro... base_information" />
@@ -291,12 +287,12 @@
       <workItem from="1512125122577" duration="7415000" />
       <workItem from="1512219899111" duration="2671000" />
       <workItem from="1512258078665" duration="11495000" />
-      <workItem from="1514172768140" duration="750000" />
+      <workItem from="1514172768140" duration="912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42569000" />
+    <option name="totallyTimeSpent" value="42731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gui/model/ConnectionMariaDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="288">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1514179901067" expanded="true" signature="847:890" ph="select * fro... base_information" />
